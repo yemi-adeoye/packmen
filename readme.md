@@ -1,6 +1,6 @@
 # Packmen
 
-<img src="images/packman1.png" width="50%" />
+<img src="images/packman1.png" width="30%" />
 ## Description
 
 Creates packmen images on the fly. These images are animated to move and bounce off the four edges of their container. The images are created with random sizes and velocities.
